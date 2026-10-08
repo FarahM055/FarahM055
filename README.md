@@ -24,7 +24,7 @@ I turn data into business understanding, and that understanding into AI systems 
 <p align="center"><i>Have a business problem that data or AI could solve? Let's talk.</i></p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/farahmohammed-7095012a8"><img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/></a>
+  <a href="linkedin.com/in/farah-alhajjaji"><img src="https://skillicons.dev/icons?i=linkedin" width="52" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
   <a href="mailto:farah.m.alhajjaji@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="52" alt="Email"/></a>
 </p>
